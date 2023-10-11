@@ -1,3 +1,9 @@
+# Known Issue
+
+- Session 過期，需要更新
+    - 可以使用賬戶名稱，密碼登入
+    - 可以嘗試 keep-alive
+
 # 使用方法
 請先登入 iLearning3.0，取得以下資訊：
 
