@@ -29,7 +29,7 @@
 ```bash
 pip install -r requirements.txt 
 python craw_lesson.py
-# 可以考慮使用 & 使其背景執行 -> python craw_lesson.py &
+# 可以考慮使用 nohup & 使其背景執行 -> nohup python craw_lesson.py > output.log &
 ```
 
 # TODO
